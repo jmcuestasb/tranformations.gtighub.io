@@ -93,4 +93,6 @@ H:
 
 ## References
 
+(add as many as necessary)
+
 * [Math primer for graphics and game development](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf)
