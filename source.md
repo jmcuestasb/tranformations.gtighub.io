@@ -46,8 +46,9 @@ H:
 ## Design
 
 * Depict your scene-graph. You may use ascii as it has been done [here](http://visualcomputing.github.io/Transformations/#/6/10) or [here](http://visualcomputing.github.io/Transformations/#/6/12)
+* How are the transformations going to be implemented? Default shader or custom shader...
 * What are the data sources (if applicable)?
-* How is the data been processed (if applicable)?
+* How is the data going to be processed (if applicable)?
 
 H:
 
